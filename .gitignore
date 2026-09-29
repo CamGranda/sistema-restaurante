@@ -1,0 +1,29 @@
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node / React Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+npm-debug.log
+
+# Java / Spring Boot Backend
+backend/target/
+*.jar
+*.war
+*.class
+
+# Entorno y Secretos
+.env
+*.pem
+*.key
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
